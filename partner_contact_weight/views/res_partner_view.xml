@@ -13,7 +13,8 @@
                         <field name='weight' class="oe_inline"/>
                         <field name='weight_uom'
                                class="oe_inline"
-                               placeholder="UoM"/>
+                               placeholder="UoM"
+                               domain="[('category_id', '=', %(product.product_uom_categ_kgm)d)]"/>
                     </div>
                 </xpath>
             </data>

@@ -6,7 +6,7 @@
     "summary": "Provide contact height.",
     "version": "9.0.1.0.0",
     "category": "Uncategorized",
-    "website": "https://ursainfosystems.com",
+    "website": "https://odoo-community.org/",
     "author": "Ursa Information Systems, Odoo Community Association (OCA)",
     "license": "AGPL-3",
     "application": False,

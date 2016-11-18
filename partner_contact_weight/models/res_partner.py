@@ -14,3 +14,4 @@ class ResPartner(models.Model):
                                  domain="[('category_id', '=', "
                                         "self.env.ref('product.\
                                         product_uom_categ_kgm').id)]")
+
